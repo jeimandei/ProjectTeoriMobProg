@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="651176ac-6aca-4406-b3a1-49e9298dac41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1dGHtdZiZ57QdVhBAV548hbMl33" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="E:/jerma/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="651176ac-6aca-4406-b3a1-49e9298dac41" name="Default Changelist" comment="" />
+      <created>1592044725831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592044725831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="283" key="#PSD" timestamp="1592047213639">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="368" y="283" key="#PSD/0.0.1920.1080/1920.-390.1366.768@0.0.1920.1080" timestamp="1592047213639" />
+    <state x="443" y="209" key="#Project_Structure" timestamp="1592046636094">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="443" y="209" key="#Project_Structure/0.0.1920.1080/1920.-390.1366.768@0.0.1920.1080" timestamp="1592046636094" />
+    <state x="706" y="316" key="AndroidProcessChooserDialog" timestamp="1592044736843">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="706" y="316" key="AndroidProcessChooserDialog/0.0.1920.1080/1920.-390.1366.768@0.0.1920.1080" timestamp="1592044736843" />
+    <state x="660" y="316" key="FileChooserDialogImpl" timestamp="1592047025885">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="660" y="316" key="FileChooserDialogImpl/0.0.1920.1080/1920.-390.1366.768@0.0.1920.1080" timestamp="1592047025885" />
+    <state x="712" y="122" width="607" height="804" key="find.popup" timestamp="1592046862242">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="712" y="122" width="607" height="804" key="find.popup/0.0.1920.1080/1920.-390.1366.768@0.0.1920.1080" timestamp="1592046862242" />
+  </component>
+</project>
